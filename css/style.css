@@ -24,7 +24,7 @@
 -------------------------------------------------------------------*/
 
 body {
-	color: #666666;
+	color: #C52D7A;
 	font-size: 15px;
 	font-family: 'Roboto', sans-serif;
 	line-height: 1.80857;
@@ -76,7 +76,7 @@ h3 {
 
 h4 {
 	font-size: 21px;
-	color: #07528d;
+	color: #000000;
 	margin-top: 25px;
 }
 
@@ -379,7 +379,7 @@ a:hover,a:focus {
 
     width: 92px;
     height: 30px;
-    background: url('../images/das_bg.png');
+    background: url('');
     content: "";
     display: block;
     position: absolute;
@@ -393,7 +393,7 @@ a:hover,a:focus {
 
 	width: 92px;
     height: 30px;
-    background: url('../images/das_bg.png');
+    background: url('');
     content: "";
     display: block;
     position: absolute;
@@ -557,7 +557,7 @@ a.navbar-brand {
     display: block;
     right: 0;
     content: "";
-    background: #ff880e;
+    background: #4FA1CE;
     height: 60px;
     position: absolute;
     top: 0;
@@ -656,7 +656,7 @@ a.navbar-brand {
 }
 
 .theme_color {
-	color: #fc301e;
+	color: #C52D7A;
 }
 
 .menu_orange_section {
@@ -791,18 +791,18 @@ button#sidebarCollapse {
 }
 
 .lbox-details a.btn:hover {
-	background: #fc301e;
+	background: #C52D7A;
 }
 
 .pogoSlider-nav-btn {
-    background: #272f43;
+    background: #000000;
     width: 22px;
     height: 22px;
     border-radius: 100%;
 }
 
 .pogoSlider-nav-btn--selected {
-	background: #fc301e !important;
+	background: #C52D7A !important;
 }
 
 .pogoSlider--navBottom .pogoSlider-nav {
@@ -822,7 +822,7 @@ button#sidebarCollapse {
     font-weight: 700;
     padding: 0;
     text-transform: uppercase;
-    color: #272f43;
+    color: #C52D7A;
     line-height: 110px !important;
     position: relative;
     left: -8px;
@@ -838,12 +838,12 @@ button#sidebarCollapse {
     margin: 0;
     padding: 0;
     text-transform: none;
-    color: #272f43;
+    color: #000000;
     line-height: 75px !important;
 }
 
 .slide_text p {
-    color: #f2184f;
+    color: #C52D7A;
     font-size: 20px;
     font-weight: 300;
     padding-top: 0;
@@ -863,7 +863,7 @@ button#sidebarCollapse {
 }
 
 .start_exchange_bt i {
-	color: #00cc99;
+	color: #33cc00;
 }
 
 .contact_bt {
@@ -896,7 +896,7 @@ button#sidebarCollapse {
 
 .slide_text h6 {
     font-size: 25px;
-    color: #272f43;
+    color: #000000;
     text-transform: uppercase;
     font-weight: 300;
 }
@@ -969,7 +969,7 @@ button#sidebarCollapse {
 
 .feature_box:hover,
 .feature_box:focus {
-   background: #fc301e;
+   background: #AC0355;
 }
 
 .feature_box:hover h4,
@@ -1107,7 +1107,7 @@ button#sidebarCollapse {
 	box-shadow: 0 0 1px rgba(0, 0, 0, 0);
 	position: relative;
 	overflow: hidden;
-	background: #ef4023;
+	background: #000000;
 	-webkit-transition-property: color;
 	transition-property: color;
 	-webkit-transition-duration: 0.3s;
@@ -1128,7 +1128,7 @@ button#sidebarCollapse {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background: #ef4023;
+	background: #C52D7A;
 	border-radius: 100%;
 	-webkit-transform: scale(0);
 	transform: scale(0);
@@ -1169,7 +1169,7 @@ a.hvr-radial-out:focus {
 }
 
 .service_blog:hover, .service_blog:focus {
-    box-shadow: 0 0 30px 0 rgba(0,0,0,.2);
+    box-shadow: 0 0 30px 0 rgba(27, 216, 46, 0.2);
     transform: scale(1.02);
 }
 
@@ -1240,7 +1240,7 @@ figure.effect-service h2 {
 }
 
 figure.effect-service h2 {
-	background: #e91327;
+	background: #C52D7A;
 	padding: 13px;
 	width: 94%;
 	height: 58px;
@@ -1292,7 +1292,7 @@ figure.effect-service:hover p {
 }
 
 figure.effect-service:hover {
-	border: 8px solid #e91327;
+	border: 8px solid #C52D7A;
 }
 
 .services_blog h4 {
@@ -1375,7 +1375,7 @@ figure.effect-service:hover {
 .gallery-box ul li a::before {
 	content: "";
 	position: absolute;
-	background: rgba(233, 19, 39, 0.9);
+	background: rgba(37, 233, 19, 0.9);
 	width: 100%;
 	height: 100%;
 	left: 0px;
@@ -1947,7 +1947,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .help-block ul li {
-	color: red;
+	color: #C52D7A;
 }
 
 .menu_footer li a {
@@ -1958,7 +1958,7 @@ select.form-control:not([size]):not([multiple]) {
 
 .menu_footer li a:hover,
 .menu_footer li a:focus {
-	color: #d66c0b !important;
+	color: #C52D7A !important;
 }
 
 .menu_footer li {
@@ -1966,7 +1966,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .footer-box {
-    background: #262e41;
+    background: #AC0355;
     padding: 70px 0;
 }
 
@@ -2372,7 +2372,7 @@ ul.social_icon li {
 }
 
 .dark_blue_layout {
-    background: #262e41;
+    background: #000000;
 }
 
 .readmore_bt {
@@ -2381,7 +2381,7 @@ ul.social_icon li {
     font-weight: 200;
     width: 200px;
     height: 65px;
-    background: #272f43;
+    background: #000000;
     float: left;
     text-align: center;
     line-height: 65px;
@@ -2398,12 +2398,12 @@ ul.social_icon li {
 }
 
 .readmore_bt:hover,.readmore_bt:focus {
-	background-color: #fc301e;
+	background-color: #AC0355;
 	color: #fff;
 }
 
 .footer_bottom {
-    background: #0f1521;
+    background: #000000;
     padding: 0 0;
     width: 100%;
     min-height: 60px;
@@ -2428,7 +2428,7 @@ ul.social_icon li {
 
 .footer_bottom p.crp a:hover,
 .footer_bottom p.crp a:focus {
-	color: #fc3726;
+	color: #AC0355;
 }
 
 .footer_menu ul {
@@ -2645,7 +2645,7 @@ ul.bottom_menu li {
 
 .contact_section {
 
-    background-image: url("../images/contact_bg.png");
+    background-image: url("../images/Logo\ \(2\)\ Carolina.png");
     background-size: 50% auto;
     background-repeat: no-repeat;
     background-position: right center;
@@ -2684,7 +2684,7 @@ ul.bottom_menu li {
     min-height: 120px;
     border: none;
     margin: 10px 0 0 0;
-    color: #000;
+    color: #000000;
     padding: 0;
     font-size: 20px;
     font-weight: 300;
@@ -2700,14 +2700,14 @@ ul.bottom_menu li {
     line-height: 62px;
     cursor: pointer;
     transition: ease all 0.5s;
-    background: #ef4023;
+    background: #AC0355;
     text-transform: none;
 }
 
 .contact_form_inner button:hover,
 .contact_form_inner button:focus {
     color: #fff;
-    background: #050000;
+    background: #0E7FB6;
 }
 
 /** sidebar **/
@@ -2778,7 +2778,7 @@ ul.bottom_menu li {
     }
     
     #sidebar ul li a:hover {
-      color: #fc301e;
+      color: #AC0355;
       background: #fff;
     }
     
@@ -2802,7 +2802,7 @@ ul.bottom_menu li {
     #sidebar ul li.active>a,
     a[aria-expanded="true"] {
       color: #fff;
-      background: #6d7fcc;
+      background: #000000;
     }
     
     a[data-toggle="collapse"] {
@@ -2900,7 +2900,7 @@ form.news_submit_form .field button {
     border: none;
     float: left;
     margin: 0;
-    background: #ef4023;
+    background: #C32C7A;
     color: #fff;
     font-size: 18px;
     font-weight: 400;
@@ -2918,7 +2918,7 @@ form.news_submit_form .field button {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(252,48,30,.95);
+    background: rgba(233, 37, 207, 0.95);
     top: -101%;
     display: flex;
     justify-content: center;
@@ -2939,7 +2939,7 @@ a.readmore_bt::after {
     content: "";
     width: 185px;
     height: 15px;
-    background: url('../images/or.png');
+    background: url('');
     display: block;
     position: absolute;
     top: -15px;
@@ -2948,7 +2948,7 @@ a.readmore_bt::after {
 }
 
 .theme_color_bg {
-	background: #fc3726;
+	background: #000000;
 }
 
 footer.footer-box .heading_main h2 {
